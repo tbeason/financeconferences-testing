@@ -52,7 +52,7 @@ println(io,"</table>")
 String(take!(io)) |> println
 ```
 
-\output{maketable}
+\textoutput{maketable}
 
 
 ~~~
