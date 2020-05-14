@@ -12,7 +12,6 @@ function hfun_btable(params)
     println(io,"<tr>")
     for i in 1:ncols
         println(io,"<th scope=\"col\">",headers[i],"</th>")
-        println(io,"<th>",headers[i],"</th>")
     end
     println(io,"</tr>")
     println(io,"</thead>")
