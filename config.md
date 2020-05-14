@@ -1,3 +1,3 @@
 @def author = "Tyler Beason"
 
-@def div_content = "container"
+@def div_content = "container-fluid"
