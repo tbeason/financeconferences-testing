@@ -8,13 +8,14 @@ function hfun_btable(params)
     # write headers
     println(io,"<table class=\"table table-striped table-hover table-responsive table-sm\">")
     println(io,"<caption>","$nrows conferences","</caption>")
-    println(io,"<thead class=\"thead-dark\">")
+    # println(io,"<thead class=\"thead-dark\">")
     println(io,"<tr>")
     for i in 1:ncols
-        println(io,"<th scope=\"col\">",headers[i],"</th>")
+        # println(io,"<th scope=\"col\">",headers[i],"</th>")
+        println(io,"<th>",headers[i],"</th>")
     end
     println(io,"</tr>")
-    println(io,"</thead>")
+    # println(io,"</thead>")
 
     # writing content
     println(io,"<tbody>")
