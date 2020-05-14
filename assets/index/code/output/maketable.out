@@ -1,0 +1,47 @@
+<table class="table table-striped table-hover table-responsive">
+<caption>4 conferences</caption>
+<thead class="thead-dark">
+<tr>
+<th scope="col">Conference Name</th>
+<th scope="col">Location</th>
+<th scope="col">Call for Papers Deadline</th>
+<th scope="col">Conference Date</th>
+<th scope="col">Submission Fee</th>
+<th scope="col">Website</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>CDI Ninth Conference on Derivatives</td>
+<td>Montreal</td>
+<td>5/17/2020</td>
+<td>9/24/2020</td>
+<td>0</td>
+<td>https://cdi-icd.org/en/annual-conference/</td>
+</tr>
+<tr>
+<td>Paris December Finance Meeting</td>
+<td>Paris</td>
+<td>6/4/2020</td>
+<td>12/17/2020</td>
+<td>45</td>
+<td>https://www.paris-december.eu/</td>
+</tr>
+<tr>
+<td>Moskowitz Prize for Outstanding Research in Sustainable and Responsible Investing</td>
+<td></td>
+<td>6/30/2020</td>
+<td></td>
+<td>0</td>
+<td>https://www.kellogg.northwestern.edu/social-impact/academics/moskowitz-prize.aspx</td>
+</tr>
+<tr>
+<td>Yale Machine Learning in Finance Conference</td>
+<td>New Haven, CT</td>
+<td>8/1/2020</td>
+<td>11/20/2020</td>
+<td>0</td>
+<td>https://som.yale.edu/event/2020/11/yale-machine-learning-in-finance-conference</td>
+</tr>
+</table>
+
