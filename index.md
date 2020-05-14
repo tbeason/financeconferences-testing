@@ -1,9 +1,15 @@
 @def title = "Finance Conference Deadlines"
 
 
-# Finance Conference Deadlines
+<!-- # Finance Conference Deadlines -->
 
-This is a simple public listing of submission deadlines for academic or research-oriented finance conferences.
+@@jumbotron
+~~~
+<h1 class="display-4">Finance Conference Deadlines</h1>
+<p class="lead">A simple public listing of submission deadlines for academic or research-oriented finance conferences.</p>
+~~~
+@@
+
 
 The list is in no way comprehensive. The American Finance Association also maintains a [calendar](https://afajof.org/call-for-papers-calendar/).
 
@@ -18,7 +24,7 @@ I keep a list of past conference deadlines available for download [here](/data/c
 
 ~~~
 <p></p>
-<button type="button" class="btn btn-primary"> <a href="/data/financeconfdeadlines.csv">Download as CSV</a></button>
+<a class="btn btn-primary" href="/data/financeconfdeadlines.csv" role="button">Download as CSV</a>
 ~~~
 
 

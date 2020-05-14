@@ -6,12 +6,12 @@ function hfun_btable(params)
     nrows, ncols = size(csvcontent)
     io = IOBuffer()
     # write headers
-    println(io,"<table class=\"table table-striped table-hover table-responsive table-sm\">")
+    println(io,"<table class=\"table table-striped table-responsive table-sm text-wrap\">")
     println(io,"<caption>","$nrows conferences","</caption>")
     println(io,"<thead class=\"thead-dark\">")
     println(io,"<tr>")
     for i in 1:ncols
-        println(io,"<th scope=\"col\">",headers[i],"</th>")
+        println(io,"<th scope=\"col\" class=\"align-middle\">",headers[i],"</th>")
     end
     println(io,"</tr>")
     println(io,"</thead>")
