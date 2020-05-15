@@ -3,12 +3,13 @@
 
 <!-- # Finance Conference Deadlines -->
 
-@@jumbotron
+@@jumbotron,bg-dark,text-white
 ~~~
 <h1 class="display-4">Finance Conference Deadlines</h1>
 <p class="lead">A simple public listing of submission deadlines for academic or research-oriented finance conferences.</p>
 ~~~
 @@
+
 
 
 The list is in no way comprehensive. The American Finance Association also maintains a [calendar](https://afajof.org/call-for-papers-calendar/).
@@ -24,7 +25,7 @@ I keep a list of past conference deadlines available for download [here](/data/c
 
 ~~~
 <p></p>
-<a class="btn btn-primary" href="/data/financeconfdeadlines.csv" role="button">Download as CSV</a>
+<a class="btn btn-primary text-white" href="/data/financeconfdeadlines.csv" role="button">Download as CSV</a>
 ~~~
 
 
